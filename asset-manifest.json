@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.15553538.css",
+    "main.js": "/myPortfolio/static/js/main.1abdec8a.js",
+    "static/media/myimg.png": "/myPortfolio/static/media/myimg.1055ff040bfc5f325fcd.png",
+    "static/media/5.jpg": "/myPortfolio/static/media/5.b1a8fa82ef1d15b97cb9.jpg",
+    "static/media/2.jpg": "/myPortfolio/static/media/2.2e4b7fb5303cead83d27.jpg",
+    "static/media/6.jpg": "/myPortfolio/static/media/6.312ed2df2017eba57cdd.jpg",
+    "static/media/4.jpg": "/myPortfolio/static/media/4.edc9aa2f02130f86575f.jpg",
+    "static/media/PoojaResume.pdf": "/myPortfolio/static/media/PoojaResume.06bff76db294c4b667b4.pdf",
+    "static/media/3.jpg": "/myPortfolio/static/media/3.d9c687667daa8d369e99.jpg",
+    "static/media/1.jpg": "/myPortfolio/static/media/1.0a558de4ddd9d5960b90.jpg",
+    "static/media/do2.png": "/myPortfolio/static/media/do2.3fa53bf6562f269bc01e.png",
+    "static/media/do3.png": "/myPortfolio/static/media/do3.1af24bdd6e58fa8caf61.png",
+    "static/media/menu.png": "/myPortfolio/static/media/menu.7abeea518e4131aa9400.png",
+    "static/media/do1.png": "/myPortfolio/static/media/do1.5ace09f23f9b9c98dcc3.png",
+    "static/media/Plogo.png": "/myPortfolio/static/media/Plogo.b8f135311a32b9fa37c4.png",
+    "static/media/linkedin.png": "/myPortfolio/static/media/linkedin.df3f373c358bcfdd92bb.png",
+    "static/media/gmail.png": "/myPortfolio/static/media/gmail.d765005ce9d4caa3d69e.png",
+    "index.html": "/myPortfolio/index.html",
+    "main.15553538.css.map": "/myPortfolio/static/css/main.15553538.css.map",
+    "main.1abdec8a.js.map": "/myPortfolio/static/js/main.1abdec8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15553538.css",
+    "static/js/main.1abdec8a.js"
+  ]
+}

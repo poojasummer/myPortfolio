@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family:'EB+Garamond', sans-serif;
+}
+body{
+    background: #00CFC5;
+    color: #fff;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+button{
+    box-shadow:     1px 1px #fff;
+    border: none;
+}
+/*  #9E3900, #F44900, #09E6DE, #00CFC5, #FF6E1E  */
